@@ -1,1 +1,1 @@
-Simple connection to the Google+ Service
+Connection to the Google+ Service. example.
